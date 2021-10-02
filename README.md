@@ -7,3 +7,7 @@
 
 <p align="center"> <img src="https://github.com/DarlanNoetzold/Lotka-Volterra/blob/main/lotka01.jpg" />
  <p align="center"> <img src="https://github.com/DarlanNoetzold/Lotka-Volterra/blob/main/lotka02.jpg" />
+
+  ---
+  
+  ⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
