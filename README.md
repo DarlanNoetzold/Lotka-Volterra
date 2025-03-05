@@ -1,13 +1,12 @@
 # Lotka-Volterra
-## Desenvolvimento
-* Foi desenvolvido com Python usando as bibliotecas MatplotLib, Numpy e Scipy.
+## Development
+* It was developed with Python using the MatplotLib, Numpy and Scipy libraries.
 
-## O Modelo
- * Projeto em que eu desenvolvo duas formas de executar um Modelo de Simulação de Presa-Predador. O modelo usado foi o de Lotka-Volterra.
+## The Model
+* Project in which I develop two ways to execute a Prey-Predator Simulation Model. The model used was the Lotka-Volterra model.
 
 <p align="center"> <img src="https://github.com/DarlanNoetzold/Lotka-Volterra/blob/main/lotka01.jpg" />
- <p align="center"> <img src="https://github.com/DarlanNoetzold/Lotka-Volterra/blob/main/lotka02.jpg" />
+<p align="center"> <img src="https://github.com/DarlanNoetzold/Lotka-Volterra/blob/main/lotka02.jpg" />
 
-  ---
-  
-  ⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
+---
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
